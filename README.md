@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **NodeJS, Laravel, Vue, Flutter**
+- 💬 Ask me about **NodeJS, Laravel, Vue, Flutter, Docker**
 
 - 📫 How to reach me **vrd5nj@gmail.com**
 
